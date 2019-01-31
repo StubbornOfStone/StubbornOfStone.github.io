@@ -1,8 +1,8 @@
 ## 欢迎来访
 
-You can use the [editor on GitHub](https://github.com/StubbornOfStone/StubbornOfStone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用 [github 上的编辑器](https://github.com/StubbornOfStone/StubbornOfStone.github.io/edit/master/README.md) 标记文件中维护和预览网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到此存储库时, github pages 都会运行 [Jekyll](https://jekyllrb.com/) 从标记文件中的内容重建网站中的页面。
 
 ### Markdown
 
@@ -10,12 +10,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 看不见我看不见我
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关详细信息, 请参阅 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StubbornOfStone/StubbornOfStone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的 pages 网站将使用您在 [repository settings](https://github.com/StubbornOfStone/StubbornOfStone.github.io/settings)中选择的 jekyll 主题中的布局和样式。 此主题的名称保存在  `_config.yml` jekyll 配置文件中。
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 。
